@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tawakess
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in data analytics and AI research
 - 💞️ I’m looking to collaborate on beginner projects to build my portfolio
 
 
